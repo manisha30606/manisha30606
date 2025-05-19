@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisha</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🔭 I’m currently working on **BeatPulse**
+- 🔭 I’m completed my final year project **Presenz**
 
 - 👨‍💻 All of my projects are available at [https://manisha-2024.netlify.app/](https://manisha-2024.netlify.app/)
 
