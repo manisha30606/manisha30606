@@ -128,11 +128,11 @@ A full-stack academic management application with camera-based attendance functi
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manisha30606&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -144,5 +144,5 @@ I'm always interested in meaningful technical discussions, collaborative project
 <p align="center">
   <a href="mailto:manisha30606@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/manisha-kumari-4a0132234/">LinkedIn</a> •
-  <a href="https://manishaportfolio2025.netlify.app/">Portfolio</a>
+  <a href="https://manishaportfolio-one.vercel.app/">Portfolio</a>
 </p>
